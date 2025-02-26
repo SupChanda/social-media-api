@@ -1,10 +1,9 @@
-package com.book.store;
+package com.social.media;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BookStoreApiApplicationTests {
+class SocialMediaApiApplicationTests {
 
     //@Test
     void contextLoads() {

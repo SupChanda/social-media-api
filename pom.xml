@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.book.store</groupId>
-    <artifactId>book-store-api</artifactId>
+    <artifactId>social-media-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>book-store-api</name>
-    <description>book-store-api</description>
+    <name>social-media-api</name>
+    <description>social-media-api</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
