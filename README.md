@@ -1,5 +1,5 @@
-# Book-Store-API
-Online Book Store management spring boot project
+# Social-Media-API
+Online Social Media spring boot project
 #Requirements
 0. Monitoring service
  
